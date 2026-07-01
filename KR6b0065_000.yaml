@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6b0065/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 眾經撰雜譬喻
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T04/T04n0208.xml
+    old_id: T04n0208
+hash: sha256:54faf5d391118eea01c4641b73e0b4a7c7c33c42f9197cccf3671bc4d1dd4c53
